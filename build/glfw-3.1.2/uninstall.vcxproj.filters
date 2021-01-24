@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\alana\OneDrive\Documents\1TUGAS\PresUniv\Sem 5\Computer Graphics\OpenGL\build-Visual\CMakeFiles\fa98c61eb942bea3292d588450b206aa\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\alana\OneDrive\Documents\1TUGAS\PresUniv\Sem 5\Computer Graphics\OpenGL\SAMPLES\external\glfw-3.1.2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\alana\OneDrive\Documents\1TUGAS\PresUniv\Sem 5\Computer Graphics\OpenGL\build-Visual\external\glfw-3.1.2\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9A895D1F-EFA8-3387-B7FF-54F022C57ACD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

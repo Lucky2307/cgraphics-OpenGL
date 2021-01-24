@@ -1,0 +1,13 @@
+﻿  context.c
+  init.c
+  input.c
+  monitor.c
+  wgl_context.c
+  win32_init.c
+  win32_monitor.c
+  win32_time.c
+  win32_tls.c
+  win32_window.c
+  window.c
+  winmm_joystick.c
+  glfw.vcxproj -> C:\Users\alana\OneDrive\Documents\1TUGAS\PresUniv\Sem 5\Computer Graphics\OpenGL\build-Visual\external\glfw-3.1.2\src\Debug\glfw3.lib

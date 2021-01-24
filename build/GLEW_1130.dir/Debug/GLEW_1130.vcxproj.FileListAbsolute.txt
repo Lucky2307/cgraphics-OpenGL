@@ -1,0 +1,2 @@
+C:\Users\alana\OneDrive\Documents\1TUGAS\PresUniv\Sem 5\Computer Graphics\OpenGL\build-Visual\external\Debug\GLEW_1130.pdb
+C:\Users\alana\OneDrive\Documents\1TUGAS\PresUniv\Sem 5\Computer Graphics\OpenGL\build-Visual\external\GLEW_1130.dir\Debug\GLEW_1130.pdb

@@ -1,0 +1,29 @@
+﻿pointinsquare.obj : error LNK2019: unresolved external symbol _glewInit@0 referenced in function _main
+pointinsquare.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+pointinsquare.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+pointinsquare.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+pointinsquare.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+pointinsquare.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+pointinsquare.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+pointinsquare.obj : error LNK2019: unresolved external symbol _glfwSetInputMode referenced in function _main
+pointinsquare.obj : error LNK2019: unresolved external symbol _glfwGetKey referenced in function _main
+pointinsquare.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+pointinsquare.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+pointinsquare.obj : error LNK2019: unresolved external symbol "unsigned int __cdecl LoadShaders(char const *,char const *)" (?LoadShaders@@YAIPBD0@Z) referenced in function _main
+pointinsquare.obj : error LNK2001: unresolved external symbol ___glewBindBuffer
+pointinsquare.obj : error LNK2001: unresolved external symbol ___glewBufferData
+pointinsquare.obj : error LNK2001: unresolved external symbol ___glewDeleteBuffers
+pointinsquare.obj : error LNK2001: unresolved external symbol ___glewGenBuffers
+pointinsquare.obj : error LNK2001: unresolved external symbol ___glewDeleteProgram
+pointinsquare.obj : error LNK2001: unresolved external symbol ___glewDisableVertexAttribArray
+pointinsquare.obj : error LNK2001: unresolved external symbol ___glewEnableVertexAttribArray
+pointinsquare.obj : error LNK2001: unresolved external symbol ___glewGetUniformLocation
+pointinsquare.obj : error LNK2001: unresolved external symbol ___glewUniformMatrix4fv
+pointinsquare.obj : error LNK2001: unresolved external symbol ___glewUseProgram
+pointinsquare.obj : error LNK2001: unresolved external symbol ___glewVertexAttribPointer
+pointinsquare.obj : error LNK2001: unresolved external symbol ___glewBindVertexArray
+pointinsquare.obj : error LNK2001: unresolved external symbol ___glewDeleteVertexArrays
+pointinsquare.obj : error LNK2001: unresolved external symbol ___glewGenVertexArrays
+pointinsquare.obj : error LNK2001: unresolved external symbol _glewExperimental
+C:\Users\alana\source\repos\cgraphics-OpenGL\build\glfw-3.1.2\src\Debug\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\alana\source\repos\cgraphics-OpenGL\Debug\cgraphics-OpenGL.exe : fatal error LNK1120: 27 unresolved externals

@@ -1,0 +1,10 @@
+^C:\USERS\ALANA\ONEDRIVE\DOCUMENTS\1TUGAS\PRESUNIV\SEM 5\COMPUTER GRAPHICS\OPENGL\SAMPLES\EXTERNAL\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/alana/OneDrive/Documents/1TUGAS/PresUniv/Sem 5/Computer Graphics/OpenGL/SAMPLES" "-BC:/Users/alana/OneDrive/Documents/1TUGAS/PresUniv/Sem 5/Computer Graphics/OpenGL/build-Visual" --check-stamp-file "C:/Users/alana/OneDrive/Documents/1TUGAS/PresUniv/Sem 5/Computer Graphics/OpenGL/build-Visual/external/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
